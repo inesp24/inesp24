@@ -188,5 +188,4 @@
 
 </p>
 
-![Snake animation](https://github.com/inesp24/inesp24/blob/output/github-contribution-grid-snake.svg
 
